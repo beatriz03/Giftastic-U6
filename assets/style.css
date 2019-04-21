@@ -13,3 +13,9 @@ button, #add-fruit {
     margin-left: 70%;
     font-size: 100%;
 }
+
+p {
+    font-size: 120%;
+    font-style: bold;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
