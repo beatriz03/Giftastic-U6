@@ -1,0 +1,15 @@
+button, #add-fruit {
+    background-color:rgb(0, 255, 149);
+    border-radius: 16px;
+    font-size: 100%;
+    padding: 10px 23px;
+}
+
+#button:hover {
+    background-color: rgb(24, 82, 55);
+}
+
+#add-fruit, #fruit-input {
+    margin-left: 70%;
+    font-size: 100%;
+}
